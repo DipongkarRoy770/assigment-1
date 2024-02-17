@@ -1,0 +1,57 @@
+.main-part{
+    width: 1320px;
+    height: 600px;
+    position: relative;
+    
+}
+.main-part img {
+    opacity: 0.8;
+    transition: 0.4s;
+  }
+  
+.main-part img:hover {
+    opacity: 1.0;
+  }
+.banar-main{
+    width: 632px;
+    height: 246px;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.banner-text{
+    font-size: 32px;
+    font-weight: 700;
+    color:#ffff;
+}
+.banner-heading{
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+.main-section{
+    width: 802px;
+    height: 806px;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+    
+}
+.main-text{
+    color: red;
+    font-size: 60px;
+    padding-top: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-text-h4{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+.main-text-h2{
+    font-size: 35px ;
+    font-family: sans-serif;
+}
